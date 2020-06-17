@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-image: url("../img/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+#login{
+    background-color: #ffffff;
+    width: 90%;
+    height: 490px;
+    position: absolute;
+    top: 90px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 20px 1px;
+    transition: 1.5s;
+}
+#bglogin{
+    float: right;
+}
+.form-group{
+    width: 77%;
+    position: absolute;
+    right: 12%;
+    top:230px;
+    margin-top: -5px;
+}
+input[type="submit"]{
+    width: 100%;
+}
+#btncad{
+    width: 100%;
+    margin-top: 5px;
+}
+#login a{
+    position: absolute;
+    margin-top: -15px; 
+}
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    height: 180px;
+}
