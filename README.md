@@ -1,3 +1,3 @@
 <h1>LOGIN PHP</h1>
 Screen login PHP in development for training
-https://github.com/LucasAoun/LoginPHP/issues/1#issue-640463159
+![prototipo](https://user-images.githubusercontent.com/57490700/84906901-ec04cd80-b088-11ea-810a-d8c67275aab3.png)
